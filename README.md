@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/540a273d-04c3-45ac-afdb-0d0aa64beafc
 # 📱 Android Studio-Intro
 A collection of beginner-friendly Android Studio projects created while learning the basics of Android development. Each folder contains a small standalone project (Activities, UI layouts, simple logic) to help you understand how Android apps are built, structured, and run.
 
@@ -65,7 +67,7 @@ Input validation
 
 🎥 Demo Video: 
 
-https://github.com/user-attachments/assets/044efbc1-9e49-42f0-b522-16172759bd92
+https://github.com/user-attachments/assets/d126ce07-f4de-4875-aa86-08033de8df77
 
 ### 🟧 Program 4 – Simple Calculator
 
@@ -91,7 +93,7 @@ Displaying results
 
 🎥 Demo Video: 
 
-https://github.com/user-attachments/assets/a056c6ec-9b5e-4cd1-99a9-9b34d6e6a6b6
+https://github.com/user-attachments/assets/28763607-97c0-4656-bc34-e0b6683f068d
 
 ### 🟥 Program 5 – Activities, Intents & Navigation
 
@@ -113,3 +115,28 @@ Activity Navigation
 🎥 Demo Video: 
 
 https://github.com/user-attachments/assets/ea3715ed-2530-4d3c-b865-e55f1ba11f27
+
+### 🟪 Program 6 – Fragments & Dynamic Replacement
+
+Demonstrate Fragments. 
+
+Create two fragments and load them into a FrameLayout when the corresponding button is clicked. 
+
+Each fragment has a TextView and a Button which shows a Toast with the fragment’s name.
+
+Layout (Activity): 2 Buttons (btnFragmentOne, btnFragmentTwo) + 1 FrameLayout (fragmentContainer).
+
+Behavior:
+
+Click First → replace container with FirstFragment.
+
+Click Second → replace container with SecondFragment.
+
+Fragment button → show Toast with fragment name.
+
+🎥 Demo Video:
+
+https://github.com/user-attachments/assets/73afe251-c2b5-48fd-9443-f102fd131989
+
+
+
